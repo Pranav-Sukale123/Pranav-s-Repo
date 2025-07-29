@@ -1,4 +1,4 @@
 # Pranav-s-Repo
 This is My Repository.
 <br>
-Author - Pranav Sukale
+Author - Pranav A Sukale
